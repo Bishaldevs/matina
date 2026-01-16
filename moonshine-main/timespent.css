@@ -1,0 +1,34 @@
+#clock-container {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  color: #ff4d6d; /* Romantic Pink/Red */
+}
+
+#timer {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#timer span {
+  color: #c9184a;
+}
+
+.polaroid {
+  background-color: white;
+  padding: 15px 15px 30px 15px;
+  border: 1px solid #eee;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+  width: 250px;
+  transform: rotate(-3deg); /* Slight tilt for effect */
+}
+.polaroid img {
+  width: 100%;
+  height: auto;
+}
+.caption {
+  text-align: center;
+  font-family: 'Handwriting Font', cursive;
+}
